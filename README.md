@@ -4,16 +4,15 @@
 
 
  ![](https://komarev.com/ghpvc/?username=t0bby45)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t0bby45&theme=solarized_dark)
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0bby45)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t0bby45&theme=solarized_dark)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0bby45&show_icons=true)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
