@@ -3,13 +3,7 @@
 <h3 align="center">Im from Kazakstan</h3>
 
 ![](https://komarev.com/ghpvc/?username=t0bby45)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0bby45)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t0bby45&theme=solarized_dark)
-
-
+https://ih1.redbubble.net/image.5290178163.3654/flat,750x,075,f-pad,750x1000,f8f8f8.jpg
 
 
 
