@@ -3,9 +3,10 @@
 <h3 align="center">Im from Kazakstan</h3>
 
 ![](https://komarev.com/ghpvc/?username=t0bby45)
-https://ih1.redbubble.net/image.5290178163.3654/flat,750x,075,f-pad,750x1000,f8f8f8.jpg
 
 
+
+![Иллюстрация к проекту](https://github.com/t0bby45/t0bby45.git/6jEfBqe-_400x400.jpg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
