@@ -2,8 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Im from Kazakstan</h3>
 
+![](https://komarev.com/ghpvc/?username=t0bby45)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t0bby45&theme=solarized_dark)
- ![](https://komarev.com/ghpvc/?username=t0bby45)
 
 
 
